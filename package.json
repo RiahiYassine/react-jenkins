@@ -1,8 +1,8 @@
 {
   "name": "react-jenkins-demo",
-  "homepage": "http://16.170.227.136:3000/",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
